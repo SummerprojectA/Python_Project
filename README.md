@@ -45,6 +45,28 @@ This project is designed to scrape data from YouTube channels using the YouTube 
 
      - Created 3 bargraphs consisting of subscribers per channel, views per channel and total videos per channel.
 
+         - subscribers per channel
+           
+            ![](subscribers_barplot.png)
+           
+         - views per channel
+           
+            ![](views_barplot.png)
+           
+         - total videos per channel
+           
+            ![](videos_image.png)
+
+- Data retrieval and video ids extraction:
+  
+     - Using the loc method to get playlist ID of channel name "Bhajan Marg"
+
+     - Create a function to get all videoIDs of "Bhajan Marg" using its playlistID.
+ 
+     - retrieved all videoIDs of channel name "Bhajan Marg".
+
+                 
+
        
   
   
