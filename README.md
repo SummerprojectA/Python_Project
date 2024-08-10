@@ -91,7 +91,13 @@ This project is designed to scrape data from YouTube channels using the YouTube 
 
        ![](video_permonth_barplot.png)
 
-       
+
+
+ # TOOLS USED:
+
+    - JupyterNotebook, Google API, Python, Pandas and Seaborn
+
+  
 
                  
 
