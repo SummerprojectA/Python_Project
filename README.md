@@ -65,6 +65,26 @@ This project is designed to scrape data from YouTube channels using the YouTube 
  
      - retrieved all videoIDs of channel name "Bhajan Marg".
 
+       ![](video_id_image.png)
+
+- Video details extraction:
+
+     - Retrieve detailed statistics for each video, including title, published date, views, likes, and comments.
+       
+     - Process video details in batches to handle large numbers of videos efficiently.
+
+- Data Post-Processing and Translation:
+
+     - Convert video details into a DataFrame and process date and numeric columns for accurate representation.
+
+     - Retrieve and display the top 10 videos based on views, and translate video titles from Hindi to English.
+
+- Video views visualization:
+
+     - Creating a horizontal bar plot to visualize the number of views for each video. This helps in identifying the most viewed videos.
+
+       
+
                  
 
        
