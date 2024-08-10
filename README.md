@@ -34,6 +34,17 @@ This project is designed to scrape data from YouTube channels using the YouTube 
 - Data Handling and Conversion:
 
      - The extracted data is loaded into a Pandas DataFrame for easy manipulation and analysis.
+       
+       ![](channel_data_image.png)
+       
      - Convert relevant columns to numeric types to facilitate accurate analysis and computations.
+       
+       ![](datatypes_image.png)
+
+- Visualizations:
+
+     - Created 3 bargraphs consisting of subscribers per channel, views per channel and total videos per channel.
+
+       
   
   
