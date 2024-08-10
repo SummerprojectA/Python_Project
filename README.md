@@ -21,12 +21,19 @@ This project is designed to scrape data from YouTube channels using the YouTube 
 
 ## Features
 
-- Youtube Data Extraction
+- Youtube Data Extraction:
   
      - The project utilizes the **google-api-python-client** library to interact with the 
        YouTube Data API.
-     - Then created a youtube service using channel IDs of channels "Bhajan Marg", 
+     - Then create a youtube service using channel IDs of channels "Bhajan Marg", 
        "Aniruddhacharya ji", "PradeepMishra", "BagheswarDham".
-     - Then created a function to get the channel statistics of each channel.
+     - Then create a function to get the channel statistics of each channel.
+
+       ![](channel_statistics_image.png)
+
+- Data Handling and Conversion:
+
+     - The extracted data is loaded into a Pandas DataFrame for easy manipulation and analysis.
+     - Convert relevant columns to numeric types to facilitate accurate analysis and computations.
   
   
