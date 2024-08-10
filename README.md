@@ -79,6 +79,8 @@ This project is designed to scrape data from YouTube channels using the YouTube 
 
      - Retrieve and display the top 10 videos based on views, and translate video titles from Hindi to English.
 
+       
+
 - Video views visualization:
 
      - Creating a horizontal bar plot to visualize the number of views for each video. This helps in identifying the most viewed videos.
