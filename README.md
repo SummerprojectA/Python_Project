@@ -79,11 +79,17 @@ This project is designed to scrape data from YouTube channels using the YouTube 
 
      - Retrieve and display the top 10 videos based on views, and translate video titles from Hindi to English.
 
-       
+       ![](top10_video_image.png)
 
-- Video views visualization:
+- Monthly video and publication analysis:
 
-     - Creating a horizontal bar plot to visualize the number of views for each video. This helps in identifying the most viewed videos.
+     - Extracting the month from the published date of each video and aggregate the number of videos published per month.
+
+       ![](video_permonth_image.png)
+
+     - Using **Seaborn**, a bar plot was generated to visualize the distribution of video publications per month, highlighting trends in content release over time.
+
+       ![](video_permonth_barplot.png)
 
        
 
